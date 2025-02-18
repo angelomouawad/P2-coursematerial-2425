@@ -5,7 +5,6 @@ class A:
     def e(self):
         self.c()
 
-
 class B(A):
     def b(self):
         self.a()
@@ -13,16 +12,13 @@ class B(A):
     def c(self):
         self.e()
 
-
 class C(B):
     def f(self):
         pass
 
-
 class D(A):
     def b(self):
         self.f()
-
 
 class E(D):
     def c(self):
@@ -33,7 +29,6 @@ class E(D):
 
     def g(self):
         self.f()
-
 
 class F:
     def a(self):

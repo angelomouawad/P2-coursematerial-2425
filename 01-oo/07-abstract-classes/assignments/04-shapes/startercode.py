@@ -1,6 +1,5 @@
 from math import pi
 
-
 class Rectangle:
     def __init__(self, length, width):
         self.__length = length
@@ -21,7 +20,6 @@ class Rectangle:
     @property
     def area(self):
         return self.length * self.width
-
 
 class Circle:
     def __init__(self, radius):

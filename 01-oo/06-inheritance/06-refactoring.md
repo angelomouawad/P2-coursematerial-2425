@@ -47,7 +47,7 @@ def greatest_sum(ns):
 Duplication can also occur on the level of classes.
 To demonstrate this, let's implement a (very small) part of a chess game.
 
-Check out the [chess assignment](assignments/04-chess).
+Check out the chess assignment.
 You are given a file `startercode.py`.
 Take a good look at the code inside.
 Let's briefly discuss the three classes inside.
