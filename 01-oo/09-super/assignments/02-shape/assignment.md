@@ -1,7 +1,7 @@
 ## Task
 
 Copy the starter code to `student.py`.
-As you can see, it defines an abstract class `Shape` with abstract properties `perimeter` and `circumference`.
+As you can see, it defines an abstract class `Shape` with abstract properties `area` and `perameter`.
 We ask of you to write four classes.
 
 ### `Rectangle`
